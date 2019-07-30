@@ -1,0 +1,23 @@
+{
+  "name": "new-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petemcl1978/new-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petemcl1978/new-portfolio/issues"
+  },
+  "homepage": "https://github.com/petemcl1978/new-portfolio#readme",
+  "dependencies": {
+    "heroku": "^7.27.1",
+    "node": "^12.7.0"
+  }
+}
