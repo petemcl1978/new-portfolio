@@ -1,7 +1,6 @@
 {
   "name": "new-portfolio",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +16,9 @@
   },
   "homepage": "https://github.com/petemcl1978/new-portfolio#readme",
   "dependencies": {
-    "heroku": "^7.27.1"
-  }
+    "heroku": "^7.27.1",
+    "nodejs": "0.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
 }
