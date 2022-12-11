@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/petemcl1978/new-portfolio#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "heroku": "^7.27.1",
     "homebrew": "^0.1.0",
     "node": "^12.7.0",
